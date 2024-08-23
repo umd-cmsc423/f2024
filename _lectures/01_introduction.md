@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-08-28T4:00:00+4:30
+date: 2024-08-26T4:00:00+4:30
 title: Introduction
 tldr: "Introduction to the class and some basic bio."
 thumbnail: /static_files/presentations/lec.jpg
