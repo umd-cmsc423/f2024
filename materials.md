@@ -21,7 +21,7 @@ Here you'll find an overview of the course — the material I expect we'll cover
   - Ali Ahmadi (ahmadia@umd.edu)
     - Office hours: TBA 
   - Rachel Parsons (rparsons@umd.edu)
-    - Office Hours: TBA
+    - Office Hours: Wed. 3:30 PM - 4:30 PM
 
 **Note**: In any e-mail correspondence related to the course, please be sure to include the string "[CMSC423-F24]" in the e-mail subject, to ensure 
 that the e-mail receives appropropriate priority and doesn't get routed to SPAM.
