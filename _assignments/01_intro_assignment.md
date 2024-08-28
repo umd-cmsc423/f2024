@@ -8,11 +8,11 @@ title: 'Assignment #1 - Using the command line and parsing input'
 #published: true
 due_event: 
     type: due
-    date: 2023-09-10T4:00:00+4:30
+    date: 2024-09-10T4:00:00+4:30
     description: 'Assignment #1 due'
 ---
 
-**Last updated: August 27, 2023**  
+**Last updated: August 27, 2024**  
 **Due: Tues September 10, 2024 : 11:59 PM**  
 
 **Note**: A "skeleton" structure for the project (using Java as the underlying language) has been created [here](https://github.com/umd-cmsc423/f2024_project1_sample). It shows how to setup the relevant files, and how e.g. one would use `build.sh` to invoke `javac` to compile the source into a `.class` file and how one would create a script named `fasta_stats` to run the class file.
