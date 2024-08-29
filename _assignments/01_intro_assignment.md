@@ -72,3 +72,8 @@ Your program should write to `stdout` a JSON format object (string) with the fol
 * `count_t` - The total number of occurrences of the nucleotide `T` appearing in this file.
 
 This information should be written as a properly-formatted `JSON` object to `stdout`.
+
+#### Notes
+
+If you are using `Rust` for this assignment, note that the path to `cargo` in the autograder is `/root/.cargo/bin/cargo`, so execute that
+accordingly in your `build.sh` script.
