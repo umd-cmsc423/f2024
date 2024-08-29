@@ -19,9 +19,9 @@ Here you'll find an overview of the course — the material I expect we'll cover
 * Class days/time: Tuesdays/Thursdays 11:00 AM — 12:15 PM
 * TA : 
   - Ali Ahmadi (ahmadia@umd.edu)
-    - Office hours: TBA 
+    - Office hours: Thurs. 3:00 PM - 4:00 PM (AVW 4140)
   - Rachel Parsons (rparsons@umd.edu)
-    - Office Hours: Wed. 3:30 PM - 4:30 PM
+    - Office Hours: Wed. 3:30 PM - 4:30 PM (AVW 4140)
 
 **Note**: In any e-mail correspondence related to the course, please be sure to include the string "[CMSC423-F24]" in the e-mail subject, to ensure 
 that the e-mail receives appropropriate priority and doesn't get routed to SPAM.
