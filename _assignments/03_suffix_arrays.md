@@ -30,7 +30,7 @@ In the second part of the project, you will implement a program to read your ser
 file, as well as to read an input `FASTA` file containing many queries.  Your program will then produce an 
 output file with the query results in a well-specified output format.
 
-**Note:** Sample data and a project "skeleton" will be made available shortly via GitHub and will be linked here. 
+**Note:** Sample data and a project "skeleton" can be found [here](https://github.com/umd-cmsc423/f2024_project3_sample). 
 
 ## Overall structure
 
