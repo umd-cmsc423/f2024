@@ -18,7 +18,7 @@ due_event:
 
 This assignment deals with the construction and querying of the FM index.  As we saw in class, having a useful FM index relies upon having (at least sampled) suffix array entries to recall the actual positions of the matching patterns. Thus, this project assumes that you have a working suffix array construction implementation.
 
-I encourage you to use your own suffix array construction routines from project 3.  However, if you didn't complete project 3 successfully and are therefore in need of an efficient suffix array construction implementation, you can find a starter project in Java [here](https://github.com/umd-cmsc423/f2024_project4_sample_java) and in C++ [here](https://github.com/umd-cmsc423/f2024_project4_sample_java).
+I encourage you to use your own suffix array construction routines from project 3.  However, if you didn't complete project 3 successfully and are therefore in need of an efficient suffix array construction implementation, you can find a starter project in Java [here](https://github.com/umd-cmsc423/f2024_project4_sample_java) and in C++ [here](https://github.com/umd-cmsc423/f2024_project4_sample_cpp).
 
 Sample data to test your implementation out locally is available [here](https://github.com/umd-cmsc423/f2024_project4_sample_data).
 
