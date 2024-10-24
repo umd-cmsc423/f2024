@@ -44,7 +44,7 @@ You will submit your assignment as a tarball named `CMSC423_F24_A4.tar.gz`.  Whe
 
 **Turnin** : As usual, the assignment turnin will be handled using Gradescope.  
 
-## Part (a), constructing and inspecting the 
+## Part (a), constructing and inspecting the FM-index
 
 In this part of the assignment, you will write two programs.  The first program will be called `buildfm`; it will read in a "genome" (in `FASTA`) format, build the suffix array and FM index on this reference, and write the suffix array and FM index to a binary file.  The second program will be called `inspectfm`; it will read in the binary file written by `buildfm`, and then it will compute a textual representation of the FM index and write out a file containing this representation. 
 
