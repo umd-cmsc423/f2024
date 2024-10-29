@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2023-10-26T4:00:00+4:30
+date: 2024-10-26T4:00:00+4:30
 title: "Assignment #4: FM-index construction and search"
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
