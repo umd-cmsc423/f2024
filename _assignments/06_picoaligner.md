@@ -8,7 +8,9 @@ due_event:
     description: 'Assignment #6 due'
 ---
 
-# CMSC 423 Project 5 (the picomapper) : Overview
+# CMSC 423 Project 6 (the picomapper) : Overview
+
+**Note**: This is a **bonus** project; you are not required to complete it. However, if you do choose to do it, it will count as extra credit in your final grade.  Specifically, this project is worth up to 4 extra credit points in your final grade (i.e. a 100% on this project will raise your final point grade --- after any curve is applied --- by 4 points).  Because this is a bonus project, and because I've made the due date as late as I reasonably can, **no late submissions will be accepted for this assignment**.
 
 **Note**: The sample data (and project skeleton) for project 5 are available [here](https://github.com/umd-cmsc423/f2024_project6_sample).
 
