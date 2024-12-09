@@ -140,7 +140,7 @@ The following is a planned schedule of the material we will cover in the course,
 - Dec 9.
   - Wrap-up/review last day of class
 
-- Dec 11 : Final Exam (10:00am-12:30pm) **Note: University assigned time different than class time; exam in normal class room**
+- Dec 11 : Final Exam (10:30am-12:30pm) **Note: University assigned time different than class time; exam in normal class room**
 
 
 ## Course Policies
